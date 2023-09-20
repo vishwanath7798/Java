@@ -1,5 +1,5 @@
 import java.util.Scanner;
-public class pairs_in_array {
+public class Pairs_in_array {
     public static void main(String args[]){
         Scanner sc=new Scanner(System.in);
         int n=sc.nextInt();
